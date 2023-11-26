@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "file_handling.h": "c",
+        "fcntl.h": "c",
+        "input.h": "c"
+    }
+}
